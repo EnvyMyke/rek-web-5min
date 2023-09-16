@@ -1,0 +1,50 @@
+PHP 7.0
+Kelebihan:
+  - Kinerja yang lebih baik daripada PHP 5.x.
+  - Penanganan kesalahan yang lebih baik.
+  - Fitur Type Declarations untuk tipe data yang lebih kuat.
+Kekurangan:
+  - Tidak ada fitur-fitur lanjutan seperti Null Coalescing Operator dan Spaceship Operator yang diperkenalkan di versi-versi berikutnya.
+
+PHP 7.1
+Kelebihan:
+  - Penambahan tipe data nullable (nullable types).
+  - Fitur sintaksis baru, seperti Multiple Catch Exceptions.
+  - Penambahan fungsi built-in yang berguna.
+Kekurangan:
+  - Tidak banyak perubahan signifikan dibandingkan dengan PHP 7.0.
+
+PHP 7.2
+Kelebihan:
+  - Penambahan fitur-fitur baru seperti Object Typehint (type hinting untuk objek), dan Parameter Type Widening (casting otomatis).
+  - Peningkatan kinerja lebih lanjut.
+Kekurangan:
+  - Fitur baru mungkin memerlukan pembelajaran tambahan bagi pengembang.
+
+PHP 7.3
+Kelebihan:
+  - Penambahan fitur seperti Flexible Heredoc dan Nowdoc Syntax, serta perbaikan sintaksis lainnya.
+  - Peningkatan kinerja.
+Kekurangan:
+  - Beberapa fitur mungkin kurang relevan bagi sebagian pengembang.
+
+PHP 7.4
+Kelebihan:
+  - Penambahan fitur-fitur seperti Null Coalescing Assignment Operator (??=) dan Typed Properties.
+  - Peningkatan kinerja.
+Kekurangan:
+  - Beberapa fitur mungkin memerlukan pemahaman yang lebih dalam tentang pemrograman berorientasi objek.
+
+PHP 8.0
+Kelebihan:
+  - Penambahan fitur-fitur seperti Named Arguments, Union Types, dan Match Expression.
+  - Penambahan fungsi dan perbaikan kinerja.
+Kekurangan:
+  - Perubahan sintaksis yang signifikan dapat memerlukan penyesuaian kode yang ada.
+
+PHP 8.1
+Kelebihan:
+  - Diperkirakan akan menghadirkan fitur-fitur baru seperti enumerations (jenis data enumerasi), operator string yang lebih aman, dan perbaikan sintaksis lainnya.
+  - Kemungkinan peningkatan kinerja.
+Kekurangan:
+  - Informasi spesifik tentang PHP 8.1 mungkin terbatas pada pengetahuan saya yang berakhir pada September 2021.
